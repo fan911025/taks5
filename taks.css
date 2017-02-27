@@ -77,7 +77,7 @@
           padding-top:10px;
           font-size:1rem;
           color: red;
-          float-left;margin-left:3%;
+          float-left;margin-left:21px;
            min-width: 140px;
          }
 .zhuanye3{
@@ -89,7 +89,7 @@
           padding-top:10px;
           font-size:1rem;
           color: blue;
-          float-left;margin-left:3.2%;
+          float-left;margin-left:21px;
            min-width: 150px;  
          }
 .zhuanye4{
@@ -102,7 +102,7 @@
           padding-top:10px;
           font-size:1rem;
           color: red;
-          float-left;margin-left:3.2%;           
+          float-left;margin-left:21px;           
            min-width: 140px;
         }
 .zhuanye5{
@@ -114,9 +114,9 @@
           padding-top:10px;
           font-size:1rem;
           color: blue;
-          float-left;margin-left:3.2%; 
+          float-left;padding-left:21px; 
            min-width: 200px;
-      }
+}
 .zhuanye6{
          width:100%;height:200px;
          background-color:#FFF;
@@ -124,24 +124,27 @@
 
 .jieshao{
                   
-          width:80px;
+          
           font-size:1rem;
           color: red;
           display:table-cell;
-           min-width: 120px;
            vertical-align:middle;
-           padding-left:11px;
-        }     
+           padding-left:2%;
+           min-width:113px;
+           padding-top:25px;
+           min-width:120px;
+         }
+
 .neirong{
-          width:200px;
+          width:100%;
           font-size:1rem;
           color: red;
-          float-left; margin-left:3%;
-          padding-top:25px;
+          margin-left:3%;
+          padding-top:27px;
           display:table-cell;
           vertical-align:middle;
-          min-width:70px;
-}
+
+        }
 
 .footer{
       position:fixed;
@@ -154,10 +157,16 @@
          background-color: #C3a8a8;
          } 
 .xiantiao2{
-          width:90%;height:2px;
+          width:88%;height:2px;
           background-color:#C3a8a8; 
           float-left;margin-left:35px; 
-          }  
+          } 
+.xiantiao3{
+          width:88%;height:2px;
+          background-color:#C3a8a8; 
+          float-left;margin-left:35px; 
+          margin-top:4%;
+          } 
 .footer button{
            margin-left:3%;width:45%;height:100%;
            background-color:#FFF;
