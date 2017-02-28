@@ -49,23 +49,21 @@
           font-size:1.3rem;
          }
 .dizhi{
-      width:140px;
+      width:180px;
       margin-left:100px;
-      font-size:0.8rem;
+      font-size:1.1rem;
       }
 .dizhi img{
-           width:13px;height:15px;
+           width:15px;height:18px;
            margin:auto;margin-left:20px;
           } 
 .jianjie{
-         width:100%;height:60px;
+         width:100%;height:35px;
          background-color: #FFF;         
          }
 .jineng{
-        padding-top:25px;
         font-size:1rem;
-        font-weight:bold;
-        margin-top:-21px;
+        font-weight:bold;       
         min-width: 110px;
         }
 .zhuanye2{
@@ -102,7 +100,7 @@
           
           padding-top:10px;
           font-size:1rem;
-          color: red;
+          color: #C0C0C0;
           float-left;margin-left:21px;           
            min-width: 140px;
         }
@@ -114,7 +112,7 @@
           
           padding-top:10px;
           font-size:1rem;
-          color: blue;
+          color: #C0C0C0;
           float-left;padding-left:21px; 
            min-width: 200px;
 }
@@ -149,8 +147,8 @@
 
 .footer{
       position:fixed;
-      bottom:0;
-      width:100%;height:50px;      
+      bottom:0px;
+      width:100%;height:88px;      
       background-color:#FFF ;
        }
 .xiantiao{
@@ -158,18 +156,18 @@
          background-color: #C3a8a8;
          } 
 .xiantiao2{
-          width:88%;height:2px;
+          width:98%;height:1px;
           background-color:#C3a8a8; 
-          float-left;margin-left:35px; 
+          float-left;margin-left:2%; 
           } 
 .xiantiao3{
-          width:88%;height:2px;
+          width:98%;height:1px;
           background-color:#C3a8a8; 
-          float-left;margin-left:35px; 
+          float-left;margin-left:2%; 
           margin-top:4%;
           } 
 .footer button{
-           margin-left:1%;width:48%;height:100%;
+           margin-left:1%;width:48%;height:85%;
            background-color:#FFF;
            border:solid 3px #28d7e8;border-radius:5px; 
            font-size:1.5rem;
