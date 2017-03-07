@@ -2,6 +2,7 @@
     margin:0;
     padding: 0;
     font-size:62.5%;
+    min-width:320px;
          }
 .header{
       position:fixed;     
@@ -161,6 +162,8 @@ height: 200px;
       bottom:0px;
       width:100%;height:88px;      
       background-color:#FFF ;
+      padding:2%;
+      min-width:320px;
        }
 .xiantiao{
          width:100%;height:1px; 
@@ -178,8 +181,9 @@ height: 200px;
           margin-top:1%;
           } 
 .footer button{
-           margin-left:1%;width:48%;height:85%;
+           margin-left:4%;width:41%;height:85%;
            background-color:#FFF;
            border:solid 3px #28d7e8;border-radius:5px; 
            font-size:1.5rem;outline:none;
+           margin-top:1.5%;
            }
